@@ -4,3 +4,5 @@
 * 使用 input type="range" 做 slider
 * 用 change 事件取得 slider 數值
 * RGB chage HEX
+
+gitpage <https://hkman2018.github.io/RGB_to_HEX_Converter/>
