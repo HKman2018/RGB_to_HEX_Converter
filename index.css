@@ -1,0 +1,35 @@
+body{
+  widows: 100%;
+  height: 100%;
+
+}
+.container{
+  background-color: rgb(56, 56, 70);
+}
+.range {
+    height: 25px;
+    margin-top: 20px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.REB{
+  padding: 0 40%;
+}
+.backgroudcolor{
+   --text-color-normal: hsl(210, 10%, 62%);
+  --text-color-light: hsl(210, 15%, 35%);
+  --text-color-richer: hsl(210, 50%, 72%);
+  --text-color-highlight: hsl(25, 70%, 45%);
+  font-size: 2rem;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  margin: 4% 32%;
+  width: 400px;
+  height: 300px;
+  background-color: rgb(73, 128, 199);
+}
